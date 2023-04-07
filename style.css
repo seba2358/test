@@ -1,0 +1,11 @@
+* {box-sizing: border-box; margin:0; padding:0;}
+
+body {height:100vh; overflow:hidden; color:#fff;
+background:linear-gradient(100deg,#2483ff,#2c6afb);}
+
+p {height:200px;
+background-color: red;}
+
+
+
+
